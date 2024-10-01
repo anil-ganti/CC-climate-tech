@@ -10,8 +10,18 @@ Where are we currently at? Look at Sankey diagram
 #### Activity / Discussion
 Look at energy and carbon sankey diagrams.
 
+### Lecture 2: Decarbonization Pathways: Deploy, Deploy, Deploy
+Quick intro on the technologies we have available to us today and some of the challenges
+#### Activity: Net-Zero Report Summary
+Break out into groups, each will dive deep into each NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc.
 
-### Lecture 2: Decarbonization pathways
+### Lecture 3: Nuclear Renaissance
+
+
+#### Activity: Jigsaw Format "Expert Groups"
+Break out into groups, 1 group that says "no nuclear needed", one that argues why nuclear is absolutely needed, and some groups that research specific technologies, come back with the estimated impact on net-zero.
+
+### Lecture 4:
 
 ## External Resources
 [Nat Bullard's global climate trends in 2023 in 200 slides](https://www.nathanielbullard.com/presentations])
