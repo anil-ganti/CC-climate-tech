@@ -21,7 +21,18 @@ Break out into groups, each will dive deep into each NZ scenario. Present the sc
 #### Activity: Jigsaw Format "Expert Groups"
 Break out into groups, 1 group that says "no nuclear needed", one that argues why nuclear is absolutely needed, and some groups that research specific technologies, come back with the estimated impact on net-zero.
 
-### Lecture 4:
+### Lecture 4: Energy storage
+
+#### Activity: Pitch competition!
+
+### Lecture 5: Fusion?
+
+### Lecture 6: Agriculture
+
+### Lecture 7: Negative Emissions
+
+### Lecture 8: 
+#### Activity: Post-mortem on famous energy / climate technology plans / companies
 
 ## External Resources
 [Nat Bullard's global climate trends in 2023 in 200 slides](https://www.nathanielbullard.com/presentations])
