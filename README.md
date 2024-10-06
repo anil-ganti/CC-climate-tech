@@ -21,7 +21,7 @@ Break out into groups, each will dive deep into each NZ scenario. Present the sc
 #### Activity: Jigsaw Format "Expert Groups"
 Break out into groups, 1 group that says "no nuclear needed", one that argues why nuclear is absolutely needed, and some groups that research specific technologies, come back with the estimated impact on net-zero.
 
-### Lecture 4: Energy storage
+### Lecture 4: Hard-to-decarbonize sectors
 
 #### Activity: Pitch competition!
 
