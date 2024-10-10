@@ -11,82 +11,52 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 **HW Assignment** Get together in groups, look at the energy and carbon global Sankey diagrams, answer a set of questions and then we will re-group and discuss tomorrow.
 
 Resources:
-[IPCC Climate Change 2022: Mitigation of Climate Change
-](https://www.ipcc.ch/report/ar6/wg3/)
-[IPCC Climate Change 2022: Impacts, Adaptation and Vulnerability
-](https://www.ipcc.ch/report/ar6/wg2/)
+[IPCC Climate Change 2022: Mitigation of Climate Change](https://www.ipcc.ch/report/ar6/wg3/)
+
+[IPCC Climate Change 2022: Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/ar6/wg2/)
+
 [IPCC Sixth Assessment Report AR6](https://www.ipcc.ch/report/ar6/wg1/chapter/technical-summary/)
 
 ### Day 2: Decarbonizing Transportation
-Transportation makes up ~20 - 25% of total CO2 emissions. We'll look at what it will take to decarbonize transportation.
+Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
+**In-class activity / discussion** Group discussion on autonomous vehicles. What is there current status, will this accelerate or disrupt decarbonization?
+**HW Assignment** Life-cycle assessment of total carbon emissions of current electric vehicles vs plug-in hybrid vehicles. 
+Resources:
+[USDOT Report to Congress on Decarbonizing US Transportation](https://www.transportation.gov/sites/dot.gov/files/2024-07/DOT%20Report%20to%20Congress%20Decarbonizing%20US%20Transportation%20072924%20final.pdf)
+
+### Day 3: Decarbonizing Electricity
+Electricity production is the next largest sector at 25% of total CO2 emissions in the US. We'll look at currently available technologies and the technical, economic, and social barriers to adoption. 
+**In-class activity / dicussion** Dicussion on permitting, NIMBYism, etc.
+**Guest Lecture** Dr. Tyler Ruggles on Decarbonizing the Electricity System
+**HW Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc.
+
+### Day 4: Next Generation Electricity Production
+Now we'll start looking at the potentially game-changing technical breakthroughs that would shake-up what we've talked about so far. This will inclucde a brief intro to next-gen energy storage, fusion energy, and natural hydrogen.
+**In-class activity** Group presentations from yesterday's assignment on net-zero America.
+**Guest Lecture** Sam Wurzel, former ARPA-E adviser in fusion, founder of FusionEnergyBase on "Why Fusion Energy Will Change Everything"
+**HW Assignment** Answering the Heilmeyer questions on new technical concepts. Doing some example techno-economic analysis.
+
+### Day 5: Agriculture
 
 
-**In-class activity / discussion**
-#### Activity: Net-Zero Report Summary
-Break out into groups, each will dive deep into each NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc.
-
-### Lecture 3: Nuclear Renaissance
+### Day 6: Hard-to-decarbonize sectors: Industry and aviation
+**In-class Activity** Presentations from HW assignment,
+**Guest Lecture** Dr. Rakesh Radhakrishnan, former ARPA-E tech-to-market adviser, current climate-tech VC on the life-cycle of climate-tech start-ups and what you should know before joining one
 
 
-#### Activity: Jigsaw Format "Expert Groups"
-Break out into groups, 1 group that says "no nuclear needed", one that argues why nuclear is absolutely needed, and some groups that research specific technologies, come back with the estimated impact on net-zero.
+### Day 7: FIELD DAY
 
-### Lecture 4: Hard-to-decarbonize sectors
+### Day 8: Negative Emissions
 
-#### Activity: Pitch competition!
+### Day 9: Adaptation, Resilience, Geoengineering
 
-### Lecture 5: Fusion?
-
-### Lecture 6: Agriculture
-
-### Lecture 7: Negative Emissions
-
-### Lecture 8: 
-#### Activity: Post-mortem on famous energy / climate technology plans / companies
+## Other assignments planned
+1. Find an engineering / scientist role at a climate-tech start-up that you're interested in and present the job requisition. How would you get there from here today?
+2. Students will make a LinkedIn, sign up for ClimateBase, WorkOnClimate and make a mock career plan
+3. Climate-adjacent technology sectors. Students will look at adjacent technology sectors, evaluate their potential impact on climate tech. Examples include advanced materials, space-based earth observation, autonomous vehicles, biotech, etc.
 
 ## External Resources
 [Nat Bullard's global climate trends in 2023 in 200 slides](https://www.nathanielbullard.com/presentations])
 [Carbon Dioxide Removal Primer](https://cdrprimer.org/)
 [Climate Tech Primer w/ carbon flux animation](https://www.climatetechnologyprimer.com/section_1/1.2)
 
-# GPT Outline 
-# Lecture 1: The 1.5°C Challenge
-Overview of climate change and the significance of limiting warming to 1.5°C.
-Discussion of the current global climate commitments and gaps.
-Introduction to the scale of technological and societal changes needed.
-# Lecture 2: Renewable Energy Technologies
-Deep dive into solar, wind, and hydroelectric power.
-Innovations in energy storage and grid integration.
-Case studies of successful renewable energy projects.
-# Lecture 3: Carbon Capture, Utilization, and Storage (CCUS)
-Understanding the principles of carbon capture and storage.
-Exploring carbon utilization in industrial processes.
-Controversies and challenges surrounding CCUS technologies.
-# Lecture 4: Electrification of Transport
-Overview of electric vehicles (EVs) and battery technology.
-Innovations in public transport electrification.
-The role of hydrogen in transportation.
-# Lecture 5: Advanced Materials for Climate Tech
-Exploration of materials science innovations, such as perovskite solar cells and advanced composites.
-The role of nanotechnology in energy efficiency.
-Future prospects for material innovations in climate tech.
-# Lecture 6: Negative Emissions Technologies
-Discussion on afforestation, bioenergy with carbon capture and storage (BECCS), and direct air capture (DAC).
-The feasibility and ethical considerations of large-scale deployment.
-Case studies of negative emissions projects.
-# Lecture 7: Geoengineering: Controversial Solutions
-Introduction to solar radiation management and ocean fertilization.
-Ethical and geopolitical implications of geoengineering.
-Open discussion on the risks and benefits.
-# Lecture 8: Circular Economy and Sustainable Industry
-Principles of the circular economy and waste minimization.
-Innovations in recycling and sustainable manufacturing.
-Case studies of circular economy initiatives.
-# Lecture 9: Analytical Framework: The Heilmeyer Questions
-Introduction to the Heilmeyer questions and their application in evaluating technology.
-Applying the framework to a climate tech case study.
-Group activity: Evaluating a hypothetical technology using the Heilmeyer questions.
-# Lecture 10: The Future of Climate Tech and Your Role
-Discussion on emerging trends and future directions in climate tech.
-The role of physicists and engineers in climate solutions.
-Pathways to careers in climate tech and how to get involved.
