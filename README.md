@@ -13,7 +13,7 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 
 **HW Assignment** Get together in groups, look at the energy and carbon global Sankey diagrams, answer a set of questions and then we will re-group and discuss tomorrow.
 
-Resources:
+**Resources:**
 
 [IPCC Climate Change 2022: Mitigation of Climate Change](https://www.ipcc.ch/report/ar6/wg3/)
 
@@ -27,8 +27,8 @@ Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the 
 **In-class activity / discussion** Group discussion on autonomous vehicles. What is there current status, will this accelerate or disrupt decarbonization?
 
 **HW Assignment** Life-cycle assessment of total carbon emissions of current electric vehicles vs plug-in hybrid vehicles. 
-Resources:
 
+**Resources:**
 [USDOT Report to Congress on Decarbonizing US Transportation](https://www.transportation.gov/sites/dot.gov/files/2024-07/DOT%20Report%20to%20Congress%20Decarbonizing%20US%20Transportation%20072924%20final.pdf)
 
 ### Day 3: Decarbonizing Electricity
