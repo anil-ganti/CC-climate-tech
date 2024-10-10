@@ -1,17 +1,27 @@
-# CC-climate-tech
-Course notes, outline, etc for Colorado College climate tech engineering course
+# Colorado College PC271 - Investigations in Climate Technology
+Welcome to PC271! This half-block course offers students a foundational understanding of the critical needs and opportunities in climate technology. The course begins by exploring the emissions reductions required to limit global temperature rise to 1.5°C and the unprecedented efforts necessary to achieve this target. Students will be introduced to emerging climate technologies across various sectors while engaging in open discussions on hotly debated topics within the field. Additionally, the course will introduce students to analytical frameworks commonly used in evaluating new technical concepts and addressing global-scale challenges. By the end of the course, students will gain valuable insights into how studying the physical sciences and engineering can contribute to mitigating the worst impacts of climate change. The course is open to all Colorado College students, regardless of their major.
 
-## Course Outline
-Lectures:
-### Lecture 1: How bad is it? What do we need to do?
-Start with boiler plate slides on what we need to hit 1.5 C
-Aside on model uncertainty
-Where are we currently at? Look at Sankey diagram
-#### Activity / Discussion
-Look at energy and carbon sankey diagrams.
+## Course Outline / Syllabus
+### Day 1: How bad is it? What do we need to do?
 
-### Lecture 2: Decarbonization Pathways: Deploy, Deploy, Deploy
-Quick intro on the technologies we have available to us today and some of the challenges
+We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to understand the physical science basis for why we need to act fast.
+**Key take-away:** Every 0.5 C that we can mitigate, is huge. This should give us a sense of hope and motivate action. This class is not for doomers!
+**In-class activity / discussion:** Pick one figure from one of the IPCC reports that you want to discuss, or you found interesting and explain it.
+**Guest Lecture:** Dr. Jen Schafer, ARPA-E program director and professor at Colorado School of Mines on nuclear fission energy, past, present, and future.
+**HW Assignment** Get together in groups, look at the energy and carbon global Sankey diagrams, answer a set of questions and then we will re-group and discuss tomorrow.
+
+Resources:
+[IPCC Climate Change 2022: Mitigation of Climate Change
+](https://www.ipcc.ch/report/ar6/wg3/)
+[IPCC Climate Change 2022: Impacts, Adaptation and Vulnerability
+](https://www.ipcc.ch/report/ar6/wg2/)
+[IPCC Sixth Assessment Report AR6](https://www.ipcc.ch/report/ar6/wg1/chapter/technical-summary/)
+
+### Day 2: Decarbonizing Transportation
+Transportation makes up ~20 - 25% of total CO2 emissions. We'll look at what it will take to decarbonize transportation.
+
+
+**In-class activity / discussion**
 #### Activity: Net-Zero Report Summary
 Break out into groups, each will dive deep into each NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc.
 
