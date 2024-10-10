@@ -6,8 +6,11 @@ Welcome to PC271! This half-block course offers students a foundational understa
 
 We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to understand the physical science basis for why we need to act fast.
 **Key take-away:** Every 0.5 C that we can mitigate, is huge. This should give us a sense of hope and motivate action. **This class is not for doomers!**
+
 **In-class activity / discussion:** Pick one figure from one of the IPCC reports that you want to discuss, or you found interesting and explain it.
+
 **Guest Lecture:** Dr. Jen Schafer, ARPA-E program director and professor at Colorado School of Mines on nuclear fission energy, past, present, and future.
+
 **HW Assignment** Get together in groups, look at the energy and carbon global Sankey diagrams, answer a set of questions and then we will re-group and discuss tomorrow.
 
 Resources:
@@ -20,7 +23,9 @@ Resources:
 
 ### Day 2: Decarbonizing Transportation
 Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
+
 **In-class activity / discussion** Group discussion on autonomous vehicles. What is there current status, will this accelerate or disrupt decarbonization?
+
 **HW Assignment** Life-cycle assessment of total carbon emissions of current electric vehicles vs plug-in hybrid vehicles. 
 Resources:
 
@@ -28,21 +33,29 @@ Resources:
 
 ### Day 3: Decarbonizing Electricity
 Electricity production is the next largest sector at 25% of total CO2 emissions in the US. We'll look at currently available technologies and the technical, economic, and social barriers to adoption. 
+
 **In-class activity / dicussion** Dicussion on permitting, NIMBYism, etc.
+
 **Guest Lecture** Dr. Tyler Ruggles on Decarbonizing the Electricity System
+
 **HW Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc.
 
 ### Day 4: Next Generation Electricity Production
 Now we'll start looking at the potentially game-changing technical breakthroughs that would shake-up what we've talked about so far. This will inclucde a brief intro to next-gen energy storage, fusion energy, and natural hydrogen.
+
 **In-class activity** Group presentations from yesterday's assignment on net-zero America.
+
 **Guest Lecture** Sam Wurzel, former ARPA-E adviser in fusion, founder of FusionEnergyBase on "Why Fusion Energy Will Change Everything"
+
 **HW Assignment** Answering the Heilmeyer questions on new technical concepts. Doing some example techno-economic analysis.
 
 ### Day 5: Agriculture
 
 
 ### Day 6: Hard-to-decarbonize sectors: Industry and aviation
+
 **In-class Activity** Presentations from HW assignment
+
 **Guest Lecture** Dr. Rakesh Radhakrishnan, former ARPA-E tech-to-market adviser, current climate-tech VC on the life-cycle of climate-tech start-ups and what you should know before joining one
 
 
