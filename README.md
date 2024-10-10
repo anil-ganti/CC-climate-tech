@@ -35,7 +35,7 @@ Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the 
 ### Day 3: Decarbonizing Electricity
 Electricity production is the next largest sector at 25% of total CO2 emissions in the US. We'll look at currently available technologies and the technical, economic, and social barriers to adoption. 
 
-**In-class activity / dicussion** Dicussion on permitting, NIMBYism, etc.
+**In-class activity / dicussion** Dicussion on permitting, NIMBYism, etc. Are there any technical solutions to these problems?
 
 **Guest Lecture** Dr. Tyler Ruggles on Decarbonizing the Electricity System
 
