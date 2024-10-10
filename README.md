@@ -51,12 +51,14 @@ Now we'll start looking at the potentially game-changing technical breakthroughs
 **HW Assignment** Answering the Heilmeyer questions on new technical concepts. Doing some example techno-economic analysis.
 
 ### Day 5: Agriculture
+Agricultural emissions are notoriously difficult to abate because they are happening over vast areas of land. We'll talk about soil carbon stocks, methane and nitroux oxide emissions and how to reduce them.
+**In-class Activity** Presentations from HW assignment. 
+**HW Assignment** In groups, pick an ag-tech technology and make a pitch for it. Examples may include vertical farms, large-scale aquaculture, fake meats, etc. Answer the Heilmeyer questions and estimate potential impact. What are the risks? How will you get people to adopt?
 
+### Day 6: Hard-to-decarbonize sectors: Industry
+The "final" 8% emissions come from sectors we never really "see". Cement, iron, steel, etc. The building blocks of our built-environment require carbon to be emitted, not just for the heat, but to complete necessary chemical reactions.
 
-### Day 6: Hard-to-decarbonize sectors: Industry and aviation
-
-**In-class Activity** Presentations from HW assignment
-
+**In-class activity** A discussion on buiding materials and circularity. 
 **Guest Lecture** Dr. Rakesh Radhakrishnan, former ARPA-E tech-to-market adviser, current climate-tech VC on the life-cycle of climate-tech start-ups and what you should know before joining one
 
 
