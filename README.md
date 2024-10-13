@@ -25,12 +25,15 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 ### Day 2: Decarbonizing Transportation
 Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
 
-**In-class activity / discussion** Group discussion on autonomous vehicles. What is there current status, will this accelerate or disrupt decarbonization?
+**In-class activity / discussion** Group discussion on autonomous vehicles. What is the current status, will this accelerate or disrupt decarbonization?
 
 **HW Assignment** Life-cycle assessment of total carbon emissions of current electric vehicles vs plug-in hybrid vehicles. 
 
 **Resources:**
+
 [USDOT Report to Congress on Decarbonizing US Transportation](https://www.transportation.gov/sites/dot.gov/files/2024-07/DOT%20Report%20to%20Congress%20Decarbonizing%20US%20Transportation%20072924%20final.pdf)
+
+[CBO Emissions of Carbon Dioxide in the Transportation Sector](https://www.cbo.gov/system/files/2022-12/58566-co2-emissions-transportation.pdf)
 
 ### Day 3: Decarbonizing Electricity
 Electricity production is the next largest sector at 25% of total CO2 emissions in the US. We'll look at currently available technologies and the technical, economic, and social barriers to adoption. 
