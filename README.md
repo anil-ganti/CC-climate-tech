@@ -2,7 +2,7 @@
 Welcome to PC271! This half-block course offers students a foundational understanding of the critical needs and opportunities in climate technology. The course begins by exploring the emissions reductions required to limit global temperature rise to 1.5°C and the unprecedented efforts necessary to achieve this target. Students will be introduced to emerging climate technologies across various sectors while engaging in open discussions on hotly debated topics within the field. Additionally, the course will introduce students to analytical frameworks commonly used in evaluating new technical concepts and addressing global-scale challenges. By the end of the course, students will gain valuable insights into how studying the physical sciences and engineering can contribute to mitigating the worst impacts of climate change. The course is open to all Colorado College students, regardless of their major.
 
 ## Course Outline / Syllabus
-### Day 1: How bad is it? What do we need to do?
+### 10/6 Day 1: How bad is it? What do we need to do?
 
 We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to understand the physical science basis for why we need to act fast.
 
@@ -22,7 +22,7 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 
 [IPCC Sixth Assessment Report AR6](https://www.ipcc.ch/report/ar6/wg1/chapter/technical-summary/)
 
-### Day 2: Decarbonizing Transportation
+### 10/7 Day 2: Decarbonizing Transportation
 Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
 
 **In-class activity / discussion** Group discussion on autonomous vehicles. What is the current status, will this accelerate or disrupt decarbonization?
@@ -35,7 +35,7 @@ Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the 
 
 [CBO Emissions of Carbon Dioxide in the Transportation Sector](https://www.cbo.gov/system/files/2022-12/58566-co2-emissions-transportation.pdf)
 
-### Day 3: Decarbonizing Electricity
+### 10/8 Day 3: Decarbonizing Electricity
 Electricity production is the next largest sector at 25% of total CO2 emissions in the US. We'll look at currently available technologies and the technical, economic, and social barriers to adoption. 
 
 **In-class activity / dicussion** Dicussion on permitting, NIMBYism, etc. Are there any technical solutions to these problems?
@@ -44,7 +44,7 @@ Electricity production is the next largest sector at 25% of total CO2 emissions 
 
 **HW Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc.
 
-### Day 4: Next Generation Electricity Production
+### 10/9 Day 4: Next Generation Electricity Production
 Now we'll start looking at the potentially game-changing technical breakthroughs that would shake-up what we've talked about so far. This will inclucde a brief intro to next-gen energy storage, fusion energy, and natural hydrogen.
 
 **In-class activity** Group presentations from yesterday's assignment on net-zero America.
@@ -53,16 +53,16 @@ Now we'll start looking at the potentially game-changing technical breakthroughs
 
 **HW Assignment** Answering the Heilmeyer questions on new technical concepts. Doing some example techno-economic analysis.
 
-### Day 5: Agriculture
-Agricultural emissions are notoriously difficult to abate because they are happening over vast areas of land. We'll talk about soil carbon stocks, methane and nitroux oxide emissions and how to reduce them.
-**In-class Activity** Presentations from HW assignment. 
-**HW Assignment** In groups, pick an ag-tech technology and make a pitch for it. Examples may include vertical farms, large-scale aquaculture, fake meats, etc. Answer the Heilmeyer questions and estimate potential impact. What are the risks? How will you get people to adopt?
-
-### Day 6: Hard-to-decarbonize sectors: Industry
+### 10/10 Day 5: Hard-to-decarbonize sectors: Industry
 The "final" 8% emissions come from sectors we never really "see". Cement, iron, steel, etc. The building blocks of our built-environment require carbon to be emitted, not just for the heat, but to complete necessary chemical reactions.
 
 **In-class activity** A discussion on buiding materials and circularity. 
 **Guest Lecture** Dr. Rakesh Radhakrishnan, former ARPA-E tech-to-market adviser, current climate-tech VC on the life-cycle of climate-tech start-ups and what you should know before joining one
+
+### 10/13 Day 6: Agriculture
+Agricultural emissions are notoriously difficult to abate because they are happening over vast areas of land. We'll talk about soil carbon stocks, methane and nitroux oxide emissions and how to reduce them.
+**In-class Activity** Presentations from HW assignment. 
+**HW Assignment** In groups, pick an ag-tech technology and make a pitch for it. Examples may include vertical farms, large-scale aquaculture, fake meats, etc. Answer the Heilmeyer questions and estimate potential impact. What are the risks? How will you get people to adopt?
 
 
 ### Day 7: FIELD DAY
