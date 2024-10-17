@@ -65,6 +65,8 @@ The "final" 8% emissions come from sectors we never really "see". Cement, iron, 
 
 **Guest Lecture** Dr. Rakesh Radhakrishnan, former ARPA-E tech-to-market adviser, current climate-tech VC on the life-cycle of climate-tech start-ups and what you should know before joining one
 
+**HW Assignment** Find and analyize a climate-tech job posting you find interesting. See [Job Assignment](career_activity.md) 
+
 ### 10/13 Day 6: Agriculture
 Agricultural emissions are notoriously difficult to abate because they are happening over vast areas of land. We'll talk about soil carbon stocks, methane and nitroux oxide emissions and how to reduce them.
 **In-class Activity** Presentations from HW assignment. 
