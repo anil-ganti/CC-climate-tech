@@ -47,7 +47,7 @@ Electricity production is the next largest sector at 25% of total CO2 emissions 
 
 **Guest Lecture** Dr. Tyler Ruggles on Decarbonizing the Electricity System
 
-**HW Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc.
+**HW Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc. See [Net-Zero scenario assignment](netzero_activity.md)
 
 ### 10/9 Day 4: Next Generation Electricity Production
 Now we'll start looking at the potentially game-changing technical breakthroughs that would shake-up what we've talked about so far. This will inclucde a brief intro to next-gen energy storage, fusion energy, and natural hydrogen.
