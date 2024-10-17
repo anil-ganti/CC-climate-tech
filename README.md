@@ -7,7 +7,7 @@ Multiple group presentations plus a final project which will involve expanding o
 ## Course Outline / Syllabus
 ### 10/6 Day 1: How bad is it? What do we need to do?
 
-We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to understand the physical science basis for why we need to act fast.
+We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to understand the physical science basis for why we need to act fast. We'll also do a quick lesson on unit analysis, and the units relevant in energy / climate.
 
 **Key take-away:** Every 0.5 C that we can mitigate is huge. This should give us a sense of hope and motivate action. **This class is not for doomers!**
 
