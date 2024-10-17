@@ -27,7 +27,7 @@ Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the 
 
 **In-class activity / discussion** Life-cycle assessment / techno-economic analysis group work and discussion. See [Transportation in-class group activity](transportation_inclass_activity.md)
 
-**HW Assignment** Life-cycle assessment of total carbon emissions of current electric vehicles vs plug-in hybrid vehicles.
+**HW Assignment** Proposals to reduce vehicle-miles traveled (VMT) with technology-only solutions. See [Transportation assignment](transportation_activity.md)
 
 **Resources:**
 
