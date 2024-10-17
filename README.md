@@ -5,7 +5,7 @@ Welcome to PC271! This half-block course offers students a foundational understa
 Multiple group presentations plus a final project which will involve expanding on a previous in-class design / analysis presentation.
 
 ## Course Outline / Syllabus
-### 10/6 Day 1: How bad is it? What do we need to do?
+### 1/6 Day 1: How bad is it? What do we need to do?
 
 We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to understand the physical science basis for why we need to act fast. We'll also do a quick lesson on unit analysis, and the units relevant in energy / climate.
 
@@ -27,7 +27,7 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 
 [Second State of the Carbon Cycle Report SOCCR2](https://carbon2018.globalchange.gov/)
 
-### 10/7 Day 2: Decarbonizing Transportation
+### 1/7 Day 2: Decarbonizing Transportation
 Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
 
 **In-class activity / discussion** Life-cycle assessment / techno-economic analysis group work and discussion. See [Transportation in-class group activity](transportation_inclass_activity.md)
@@ -40,7 +40,7 @@ Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the 
 
 [CBO Emissions of Carbon Dioxide in the Transportation Sector](https://www.cbo.gov/system/files/2022-12/58566-co2-emissions-transportation.pdf)
 
-### 10/8 Day 3: Decarbonizing Electricity
+### 1/8 Day 3: Decarbonizing Electricity
 Electricity production is the next largest sector at 25% of total CO2 emissions in the US. We'll look at currently available technologies and the technical, economic, and social barriers to adoption. 
 
 **In-class activity / dicussion** Dicussion on permitting, NIMBYism, etc. Are there any technical solutions to these problems?
@@ -49,7 +49,7 @@ Electricity production is the next largest sector at 25% of total CO2 emissions 
 
 **HW Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc. See [Net-Zero scenario assignment](netzero_activity.md)
 
-### 10/9 Day 4: Next Generation Electricity Production
+### 1/9 Day 4: Next Generation Electricity Production
 Now we'll start looking at the potentially game-changing technical breakthroughs that would shake-up what we've talked about so far. This will inclucde a brief intro to next-gen energy storage, fusion energy, and natural hydrogen.
 
 **In-class activity** Group presentations from yesterday's assignment on net-zero America.
@@ -58,7 +58,7 @@ Now we'll start looking at the potentially game-changing technical breakthroughs
 
 **HW Assignment** Answering the Heilmeyer questions on new technical concepts. Doing some example techno-economic analysis.
 
-### 10/10 Day 5: Hard-to-decarbonize sectors: Industry
+### 1/10 Day 5: Hard-to-decarbonize sectors: Industry
 The "final" 8% emissions come from sectors we never really "see". Cement, iron, steel, etc. The building blocks of our built-environment require carbon to be emitted, not just for the heat, but to complete necessary chemical reactions.
 
 **In-class activity** A discussion on buiding materials and circularity.
@@ -67,7 +67,7 @@ The "final" 8% emissions come from sectors we never really "see". Cement, iron, 
 
 **HW Assignment** Find and analyze a climate-tech job posting you find interesting. See [Job Assignment](career_activity.md) 
 
-### 10/13 Day 6: Agriculture
+### 1/13 Day 6: Agriculture
 Agricultural emissions are notoriously difficult to abate because they are happening over vast areas of land. We'll talk about soil carbon stocks, methane and nitroux oxide emissions and how to reduce them.
 **In-class Activity** Presentations from HW assignment. 
 **HW Assignment** In groups, pick an ag-tech technology and make a pitch for it. Examples may include vertical farms, large-scale aquaculture, fake meats, etc. Answer the Heilmeyer questions and estimate potential impact. What are the risks? How will you get people to adopt?
