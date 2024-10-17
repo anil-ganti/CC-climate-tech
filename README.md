@@ -25,9 +25,9 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 ### 10/7 Day 2: Decarbonizing Transportation
 Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
 
-**In-class activity / discussion** Group discussion on autonomous vehicles. What is the current status, will this accelerate or disrupt decarbonization?
+**In-class activity / discussion** Life-cycle assessment / techno-economic analysis group work and discussion. See [Transportation in-class group activity](transportation_inclass_activity.md)
 
-**HW Assignment** Life-cycle assessment of total carbon emissions of current electric vehicles vs plug-in hybrid vehicles. 
+**HW Assignment** Life-cycle assessment of total carbon emissions of current electric vehicles vs plug-in hybrid vehicles.
 
 **Resources:**
 
