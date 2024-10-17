@@ -7,11 +7,11 @@ Students will analyze global Sankey diagrams related to energy, carbon, and wate
 
 ## Resources
 
-(Energy, Carbon, Water Sankey diagrams)[https://flowcharts.llnl.gov/commodities]
+[Energy, Carbon, Water Sankey diagrams](https://flowcharts.llnl.gov/commodities)
 
-(Global Exergy)[https://swap.stanford.edu/was/20230129051410/http://gcep.stanford.edu/research/exergy/resourcechart.html]
+[Global Exergy](https://swap.stanford.edu/was/20230129051410/http://gcep.stanford.edu/research/exergy/resourcechart.html)
 
-(Natural Global Carbon Fluxes)[https://earthobservatory.nasa.gov/features/CarbonCycle]
+[Natural Global Carbon Fluxes](https://earthobservatory.nasa.gov/features/CarbonCycle)
 
 ## Open-Ended Guiding Questions for Sankey Diagram Analysis
 
