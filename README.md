@@ -1,6 +1,9 @@
 # Colorado College PC271 - Investigations in Climate Technology
 Welcome to PC271! This half-block course offers students a foundational understanding of the critical needs and opportunities in climate technology. The course begins by exploring the emissions reductions required to limit global temperature rise to 1.5°C and the unprecedented efforts necessary to achieve this target. Students will be introduced to emerging climate technologies across various sectors while engaging in open discussions on hotly debated topics within the field. Additionally, the course will introduce students to analytical frameworks commonly used in evaluating new technical concepts and addressing global-scale challenges. By the end of the course, students will gain valuable insights into how studying the physical sciences and engineering can contribute to mitigating the worst impacts of climate change. The course is open to all Colorado College students, regardless of their major.
 
+## Graded Assignments ##
+Multiple group presentations plus a final project which will involve expanding on a previous in-class design / analysis presentation.
+
 ## Course Outline / Syllabus
 ### 10/6 Day 1: How bad is it? What do we need to do?
 
