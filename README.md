@@ -12,7 +12,7 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 
 **Guest Lecture:** Dr. Jen Schafer, ARPA-E program director and professor at Colorado School of Mines on nuclear fission energy, past, present, and future.
 
-**HW Assignment** Get together in groups, look at the energy and carbon global Sankey diagrams, answer a set of questions and then we will re-group and discuss tomorrow.
+**HW Assignment** Get together in groups, look at the energy and carbon global Sankey diagrams, answer a set of questions and then we will re-group and discuss tomorrow. See []()
 
 **Resources:**
 
@@ -21,6 +21,8 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 [IPCC Climate Change 2022: Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/ar6/wg2/)
 
 [IPCC Sixth Assessment Report AR6](https://www.ipcc.ch/report/ar6/wg1/chapter/technical-summary/)
+
+[Second State of the Carbon Cycle Report SOCCR2](https://carbon2018.globalchange.gov/)
 
 ### 10/7 Day 2: Decarbonizing Transportation
 Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
