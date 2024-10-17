@@ -12,7 +12,7 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 
 **Guest Lecture:** Dr. Jen Schafer, ARPA-E program director and professor at Colorado School of Mines on nuclear fission energy, past, present, and future.
 
-**HW Assignment** Get together in groups, look at the energy and carbon global Sankey diagrams, answer a set of questions and then we will re-group and discuss tomorrow. See []()
+**HW Assignment** Get together in groups, look at the energy and carbon global Sankey diagrams, answer a set of questions and then we will re-group and discuss tomorrow. See [Sankey Diagram assignment](sankey_activity.md)
 
 **Resources:**
 
