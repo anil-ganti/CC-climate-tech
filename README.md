@@ -58,7 +58,8 @@ Now we'll start looking at the potentially game-changing technical breakthroughs
 ### 10/10 Day 5: Hard-to-decarbonize sectors: Industry
 The "final" 8% emissions come from sectors we never really "see". Cement, iron, steel, etc. The building blocks of our built-environment require carbon to be emitted, not just for the heat, but to complete necessary chemical reactions.
 
-**In-class activity** A discussion on buiding materials and circularity. 
+**In-class activity** A discussion on buiding materials and circularity.
+
 **Guest Lecture** Dr. Rakesh Radhakrishnan, former ARPA-E tech-to-market adviser, current climate-tech VC on the life-cycle of climate-tech start-ups and what you should know before joining one
 
 ### 10/13 Day 6: Agriculture
