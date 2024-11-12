@@ -1,9 +1,13 @@
-# Guided Activity: Interpreting Global Energy, Carbon, and Water Sankey Diagrams
+# Assignment: Interpreting Global Energy, Carbon, and Water Sankey Diagrams
 
-## Objective
-Students will analyze global Sankey diagrams related to energy, carbon, and water flows, focusing on reflecting on their prior assumptions and understanding the broader climate problem. They will engage in open-ended questions that encourage critical thinking, helping to develop a 30,000-foot view of the problem.
+## Learning Objectives
+Students will learn to critically read Sankey diagrams, which are important tools for getting a quick, overview of energy / carbon / water flows. Students will practice dimensional analysis and demonstrate they understand how to make a quick, argument using only a Sankey diagram and some 1st order approximations. Finally, this exercise will serve as a "level-setting" of what are the large outstanding problems in getting to net-zero carbon emissions.
 
 ---
+
+## Assignment
+There are several sets of questions ranging from fact-finding to open-ended critical assessment. In a canvas post, answer each question
+
 
 ## Resources
 
