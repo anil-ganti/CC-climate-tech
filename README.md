@@ -30,15 +30,17 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 ### 1/7 Day 2: Decarbonizing Transportation
 Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
 
-**In-class activity / discussion** Life-cycle assessment / techno-economic analysis group work and discussion. See [Transportation in-class group activity](transportation_inclass_activity.md)
+**Group Assignment** Group deep dives on parts of the transportation sector to be presented the following day. See [Transportation in-class group activity](transportation_inclass_activity.md)
 
-**HW Assignment** Proposals to reduce vehicle-miles traveled (VMT) with technology-only solutions. See [Transportation assignment](transportation_activity.md)
+**Potential final project ideas** Proposals to reduce vehicle-miles traveled (VMT) with technology-only solutions. See [Transportation assignment](transportation_activity.md)
 
 **Resources:**
 
 [USDOT Report to Congress on Decarbonizing US Transportation](https://www.transportation.gov/sites/dot.gov/files/2024-07/DOT%20Report%20to%20Congress%20Decarbonizing%20US%20Transportation%20072924%20final.pdf)
 
 [CBO Emissions of Carbon Dioxide in the Transportation Sector](https://www.cbo.gov/system/files/2022-12/58566-co2-emissions-transportation.pdf)
+
+[IEA Transport](https://www.iea.org/energy-system/transport)
 
 ### 1/8 Day 3: Decarbonizing Electricity
 Electricity production is the next largest sector at 25% of total CO2 emissions in the US. We'll look at currently available technologies and the technical, economic, and social barriers to adoption. 
