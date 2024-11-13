@@ -4,12 +4,8 @@
 Students will learn to critically read Sankey diagrams, which are important tools for getting a quick, overview of energy / carbon / water flows. Students will practice dimensional analysis and demonstrate they understand how to make a quick, argument using only a Sankey diagram and some 1st order approximations. Finally, this exercise will serve as a "level-setting" of what are the large outstanding problems in getting to net-zero carbon emissions.
 
 ---
-
-## Assignment
-There are several sets of questions ranging from fact-finding to open-ended critical assessment. In a canvas post, answer each question
-
-
 ## Resources
+[OtherLab Super Sankey for US Energy](http://www.departmentof.energy/)
 
 [Energy, Carbon, Water Sankey diagrams](https://flowcharts.llnl.gov/commodities)
 
@@ -17,67 +13,31 @@ There are several sets of questions ranging from fact-finding to open-ended crit
 
 [Natural Global Carbon Fluxes](https://earthobservatory.nasa.gov/features/CarbonCycle)
 
-## Open-Ended Guiding Questions for Sankey Diagram Analysis
+### Question 1 - Learning to Read and Use a Sankey Diagram (50%) ###
+- Open [OtherLab Super Sankey for US Energy](http://www.departmentof.energy/) and get your bearings. Play around with the UI and learn to use the control
+  
+- What are the units of the flows in this chart? Convert this to SI units and watt-hours (1 ABC unit = X Joules = Y Wh)
 
-### 1. Energy Sankey Diagram (e.g., IEA Global Energy Flow)
-- **Which of the end-uses of energy surprised you the most and why?**  
-  What assumptions did you have about energy usage that this diagram confirmed or challenged?
+- What do the first three columns represent? What the the connections between these columsn represent?
+  
+- Find the column which has the residential energy usage by fuel type. How much natural gas is used in residential? If we were to "electrify" this flow (replace using natural gas with electirity), how much additional electrical energy would we need to generate in watt-hours assuming natural gas appliances and electrical appliances are equally efficient?
+  
+- Assume an average solar panel in an average location in the US produces 300 Watts per square meter per day for 12 hours a day on average. How many square meters of solar panels would be needed? Type this answer into Wolfram Alpha as "Z square meters" and scroll down to the comparisons. Write in your favorite comparison.
 
-- **Where do you see the largest inefficiencies, and how did this align with your expectations?**  
-  Did you expect more energy losses in certain sectors, and why might this be the case?
+- Open the 2022 Carbon Sankey diagram in [Energy, Carbon, Water Sankey diagrams](https://flowcharts.llnl.gov/commodities). If natural gas is replaced in residences with carbon-free electricity, what are the emission reductions (in what units)?
 
-- **What energy sources were you expecting to see as dominant, and how does the reality compare?**  
-  Were there any energy sources that were more or less significant than you thought? What might be contributing to this difference?
+### Question 2 - Using the Sankey diagram to find opportunities (25%)###
+Now that we understand what we are looking at and how to use it, let's use this to think strategically.
 
-- **If you had to prioritize one area for improvement based on the diagram, where would it be and why?**  
-  How do your priorities compare to the actual flows shown in the diagram?
+- Look at the fourth column. What are the two largest energy-using sectors? Pick one of these to drill down into and click on it, which should highlight all the "downstream" flows.
 
----
+- Follow the flows all the way to the 7th column. Pick one of these end-uses larger than 1 quad, click on it, then at the top click the "outgoing value" tab to see the breakdown. Record and explain the numbers you found. This may require some Googling if you don't understand the breakdown.
 
-### 2. Carbon Sankey Diagram (e.g., IPCC Global Carbon Flow)
-- **Which carbon-emitting sector stood out to you, and why?**  
-  Did you expect certain sectors (e.g., transportation, industry) to be larger contributors to emissions? What informed that expectation?
+- Can you think of ways to either reduce the flow you've picked or decarbonize this flow? Try doing a Google search on this.
 
-- **What part of the carbon cycle surprised you in terms of natural sinks or emissions?**  
-  How did your prior understanding of how much carbon is absorbed by natural systems (e.g., oceans, forests) compare with the diagram?
+### Question 3 - Explore! (25%) ###
+Finally, now that we know how to read and use a Sankey, take a bit more time to look around at the large flows and answer these questions:
 
-- **Where do you think the greatest opportunity for carbon reduction lies based on this diagram?**  
-  Does this align with the areas you would have guessed prior to seeing the diagram?
+- Which end-use of energy surprised you the most in terms of its magnitude and why?
 
-- **How does the scale of human carbon emissions compare with natural carbon flows in your mind?**  
-  Did the diagram confirm or challenge your perception of human impact?
-
----
-
-### 3. Water Sankey Diagram (e.g., Global Water Footprint)
-- **Which water uses or sectors were the most surprising in terms of their consumption?**  
-  How did this compare with your assumptions about where most water is used globally?
-
-- **What inefficiencies or areas of water waste did you not expect?**  
-  Were there any sectors or uses of water that you thought would be more efficient?
-
-- **How does water availability and usage align with energy or food systems in ways you didn’t expect?**  
-  What assumptions did you have about the connection between water use and other systems, and how does the diagram challenge or reinforce them?
-
-- **Which part of the diagram made you think differently about the global water problem?**  
-  Did this diagram change your thinking on where the most urgent water-related issues lie?
-
----
-
-## Additional Discussion Prompts (for class-wide reflection)
-- **Were there any common threads across the diagrams that surprised you?**  
-  Did you expect certain sectors or systems to dominate across energy, carbon, and water flows, and how does the reality compare?
-
-- **What assumptions did you have coming into this exercise that were most challenged by the evidence in the diagrams?**  
-  Which parts of your understanding felt most in need of revision after seeing the data?
-
-- **How do your personal values or concerns (e.g., energy independence, sustainability, water scarcity) align with what the diagrams are showing?**  
-  Did this activity shift how you prioritize different aspects of the climate problem?
-
-- **What areas of technology or policy do you think would have the greatest impact based on what you've learned today?**  
-  Did your views on potential solutions or innovations shift based on the evidence?
-
----
-
-## Conclusion
-This activity encourages students to reflect on their prior assumptions about energy, carbon, and water systems while analyzing real-world data. The open-ended nature of the questions will stimulate critical thinking and set the stage for deeper exploration of climate solutions.
+- Find two end-uses (columns 4 and beyond) for which you are not aware of any technology solutions to decarbonization. Try a Google search on these and record what comes up. Are there companies working on this, or is this a wide-open space?
