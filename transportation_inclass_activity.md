@@ -1,11 +1,24 @@
 # Group Activity: Technology Impacts on Transportation Decarbonization
 
-## Objective
-In this activity, your group will explore a specific technology that has impacted or could impact transportation decarbonization. Your task is to analyze the potential emissions reductions, perform a simple techno-economic or lifecycle analysis, and present your findings. Each group will be assigned a different topic and will deliver a brief presentation summarizing their research and calculations.
+## Learning Objectives
+Students will learn to do in-depth analysis of a particularly important emissions segment, transportation and learn to project current trends and evaluate their potential impact on decarbonization goals. Students will also learn to communicate these findings to their peers and lead discussion.
 
----
+## Evaluation
+Groups will be asked to give a short presentation the following day on their deep-dive. These slides should address the following:
 
-# Ride-Hailing Services and Autonomous Vehicles
+- What is the decarbonization challenge you're focusing on? Quantify this in terms of energy / emissions. (start very high level)
+
+- What is the current practice? How is this segment of transportation met today?
+
+- What trend that is impacting this sector are you going to discuss in depth?
+
+- Show some "new" analysis which makes projections about these trends.
+
+- What opportunities or new challenges do these trends present in decarbonization efforts?
+
+- What does the market landscape for this particular challenge look like?
+
+# Group 1: Ride-Hailing Services and Autonomous Vehicles
 
 ## Overview
 Analyze the impact of ride-hailing services (Uber, Lyft) on vehicle miles traveled (VMT) and CO₂ emissions. Consider how autonomous vehicles (AVs) might alter this in the future.
@@ -23,7 +36,7 @@ Analyze the impact of ride-hailing services (Uber, Lyft) on vehicle miles travel
 
 ---
 
-# Micro-Mobility (E-Bikes, E-Scooters)
+# Group 2: Micro-Mobility (E-Bikes, E-Scooters)
 
 ## Overview
 Analyze how micro-mobility solutions, such as e-bikes and e-scooters, impact VMT and emissions, especially in urban environments.
@@ -40,7 +53,7 @@ Analyze how micro-mobility solutions, such as e-bikes and e-scooters, impact VMT
 
 ---
 
-# Carbon Fiber and Vehicle Lightweighting
+# Group 3: Carbon Fiber and Vehicle Lightweighting
 
 ## Overview
 Explore how carbon fiber (CF) and other lightweight materials can reduce emissions by improving vehicle fuel efficiency. Analyze the barriers to widespread adoption of CF.
@@ -55,6 +68,10 @@ Explore how carbon fiber (CF) and other lightweight materials can reduce emissio
 - Research the cost difference between manufacturing vehicles with carbon fiber vs. traditional materials. How much would the cost need to decrease to be viable?
 
 ---
+
+# Group 4: Decarbonizing Freight
+
+# Group 5: Last-mile delivery
 
 # Electric Vehicles (EVs) vs. Plug-In Hybrids (PHEVs)
 
