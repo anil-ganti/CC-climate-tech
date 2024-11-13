@@ -33,7 +33,7 @@ Finally, now that we know how to read and use a Sankey, take a bit more time to 
 
 - Find two end-uses (columns 4 and beyond) for which you are not aware of any technology solutions to decarbonization. Try a Google search on these and record what comes up. Are there companies working on this, or is this a wide-open space?
 
-### Question 4 - 
+### Question 4 - A Case for Electrification (5%)
 
 Read this accompanying blog post from OtherLab [THE GREEN NEW DEAL: THE ENORMOUS OPPORTUNITY IN SHOOTING FOR THE MOON.](https://www.otherlab.com/blog-posts/the-green-new-deal-the-enormous-opportunity-in-shooting-for-the-moon)
 
@@ -49,6 +49,3 @@ Read this accompanying blog post from OtherLab [THE GREEN NEW DEAL: THE ENORMOUS
 [Global Exergy](https://swap.stanford.edu/was/20230129051410/http://gcep.stanford.edu/research/exergy/resourcechart.html)
 
 [Natural Global Carbon Fluxes](https://earthobservatory.nasa.gov/features/CarbonCycle)
-
-## Additional Reading
-
