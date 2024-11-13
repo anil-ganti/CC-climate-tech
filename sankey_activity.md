@@ -13,7 +13,7 @@ Students will learn to critically read Sankey diagrams, which are important tool
 
 [Natural Global Carbon Fluxes](https://earthobservatory.nasa.gov/features/CarbonCycle)
 
-### Question 1 - Learning to Read and Use a Sankey Diagram (50%) ###
+### Question 1 - Learning to Read and Use a Sankey Diagram (70%)
 - Open [OtherLab Super Sankey for US Energy](http://www.departmentof.energy/) and get your bearings. Play around with the UI and learn to use the control
   
 - What are the units of the flows in this chart? Convert this to SI units and watt-hours (1 ABC unit = X Joules = Y Wh)
@@ -26,7 +26,7 @@ Students will learn to critically read Sankey diagrams, which are important tool
 
 - Open the 2022 Carbon Sankey diagram in [Energy, Carbon, Water Sankey diagrams](https://flowcharts.llnl.gov/commodities). If natural gas is replaced in residences with carbon-free electricity, what are the emission reductions (in what units)?
 
-### Question 2 - Using the Sankey diagram to find opportunities (25%)###
+### Question 2 - Using the Sankey diagram to find opportunities (15%)
 Now that we understand what we are looking at and how to use it, let's use this to think strategically.
 
 - Look at the fourth column. What are the two largest energy-using sectors? Pick one of these to drill down into and click on it, which should highlight all the "downstream" flows.
@@ -35,7 +35,7 @@ Now that we understand what we are looking at and how to use it, let's use this 
 
 - Can you think of ways to either reduce the flow you've picked or decarbonize this flow? Try doing a Google search on this.
 
-### Question 3 - Explore! (25%) ###
+### Question 3 - Explore! (15%)
 Finally, now that we know how to read and use a Sankey, take a bit more time to look around at the large flows and answer these questions:
 
 - Which end-use of energy surprised you the most in terms of its magnitude and why?
