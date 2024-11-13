@@ -3,15 +3,6 @@
 ## Learning Objectives
 Students will learn to critically read Sankey diagrams, which are important tools for getting a quick, overview of energy / carbon / water flows. Students will practice dimensional analysis and demonstrate they understand how to make a quick, argument using only a Sankey diagram and some 1st order approximations. Finally, this exercise will serve as a "level-setting" of what are the large outstanding problems in getting to net-zero carbon emissions.
 
----
-## Resources
-[OtherLab Super Sankey for US Energy](http://www.departmentof.energy/)
-
-[Energy, Carbon, Water Sankey diagrams](https://flowcharts.llnl.gov/commodities)
-
-[Global Exergy](https://swap.stanford.edu/was/20230129051410/http://gcep.stanford.edu/research/exergy/resourcechart.html)
-
-[Natural Global Carbon Fluxes](https://earthobservatory.nasa.gov/features/CarbonCycle)
 
 ### Question 1 - Learning to Read and Use a Sankey Diagram (70%)
 - Open [OtherLab Super Sankey for US Energy](http://www.departmentof.energy/) and get your bearings. Play around with the UI and learn to use the control
@@ -35,9 +26,29 @@ Now that we understand what we are looking at and how to use it, let's use this 
 
 - Can you think of ways to either reduce the flow you've picked or decarbonize this flow? Try doing a Google search on this.
 
-### Question 3 - Explore! (15%)
+### Question 3 - Explore! (10%)
 Finally, now that we know how to read and use a Sankey, take a bit more time to look around at the large flows and answer these questions:
 
 - Which end-use of energy surprised you the most in terms of its magnitude and why?
 
 - Find two end-uses (columns 4 and beyond) for which you are not aware of any technology solutions to decarbonization. Try a Google search on these and record what comes up. Are there companies working on this, or is this a wide-open space?
+
+### Question 4 - 
+
+Read this accompanying blog post from OtherLab [THE GREEN NEW DEAL: THE ENORMOUS OPPORTUNITY IN SHOOTING FOR THE MOON.](https://www.otherlab.com/blog-posts/the-green-new-deal-the-enormous-opportunity-in-shooting-for-the-moon)
+
+- Explain why massive electrification of transportation is a big win, even if we don't change our electricity generation mix. Do your own Google search on efficiencies to explain this.
+
+## Resources
+[OtherLab Super Sankey for US Energy](http://www.departmentof.energy/)
+
+[THE GREEN NEW DEAL: THE ENORMOUS OPPORTUNITY IN SHOOTING FOR THE MOON.](https://www.otherlab.com/blog-posts/the-green-new-deal-the-enormous-opportunity-in-shooting-for-the-moon)
+
+[Energy, Carbon, Water Sankey diagrams](https://flowcharts.llnl.gov/commodities)
+
+[Global Exergy](https://swap.stanford.edu/was/20230129051410/http://gcep.stanford.edu/research/exergy/resourcechart.html)
+
+[Natural Global Carbon Fluxes](https://earthobservatory.nasa.gov/features/CarbonCycle)
+
+## Additional Reading
+
