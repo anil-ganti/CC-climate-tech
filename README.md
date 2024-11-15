@@ -9,6 +9,8 @@ Multiple group presentations plus a final project which will involve expanding o
 
 We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to understand the physical science basis for why we need to act fast. We'll also do a quick lesson on unit analysis, and the units relevant in energy / climate.
 
+**Learning Objectives** Get a grasp on the trends in climate science, learn to apply basic unit analysis to estimating magnitude, learn to read and analyze Sankey flow diagrams.
+
 **Key take-away:** Every 0.5 C that we can mitigate is huge. This should give us a sense of hope and motivate action. **This class is not for doomers!**
 
 **In-class activity / discussion:** Pick one figure from one of the IPCC reports that you want to discuss, or you found interesting and explain it.
@@ -30,11 +32,17 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 ### 1/7 Day 2: Decarbonizing Transportation
 Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the US. We'll look at what it will take to decarbonize transportation.
 
+**Learning Objectives** Get an overview of why transportation decarbonization is both important and challenging, learn to quantify potential impact of technologies using simple techno-economic analysis methods.
+
 **Group Assignment** Group deep dives on parts of the transportation sector to be presented the following day. See [Transportation in-class group activity](transportation_inclass_activity.md)
 
 **Potential final project ideas** Proposals to reduce vehicle-miles traveled (VMT) with technology-only solutions. See [Transportation assignment](transportation_activity.md)
 
 **Resources:**
+
+[DOE EERE LCA and TEA training](https://www.energy.gov/eere/iedo/life-cycle-assessment-and-techno-economic-analysis-training)
+
+[TEA for Early Stage Founders - Zero Carbon Capital](https://www.zerocarbon.vc/post/a-guide-to-techno-economic-analysis-for-early-stage-founders)
 
 [USDOT Report to Congress on Decarbonizing US Transportation](https://www.transportation.gov/sites/dot.gov/files/2024-07/DOT%20Report%20to%20Congress%20Decarbonizing%20US%20Transportation%20072924%20final.pdf)
 
