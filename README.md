@@ -34,9 +34,9 @@ Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the 
 
 **Learning Objectives** Get an overview of why transportation decarbonization is both important and challenging, learn to quantify potential impact of technologies using simple techno-economic analysis methods.
 
-**Group Assignment** Group deep dives on parts of the transportation sector to be presented the following day. See [Transportation in-class group activity](transportation_inclass_activity.md)
+**In-class Individual Assignment** Example TEA analysis of a hypothetical company which produces hydrogen from waste biomass. Working in groups is encouraged, but individual answers must be turned in! See [TEA assignment](tea_assignment.md)
 
-**Potential final project ideas** Proposals to reduce vehicle-miles traveled (VMT) with technology-only solutions. See [Transportation assignment](transportation_activity.md)
+**Group brainstorm and presentation** Proposals to reduce vehicle-miles traveled (VMT) with technology-only solutions. See [Transportation assignment](transportation_activity.md)
 
 **Resources:**
 
