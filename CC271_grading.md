@@ -1,10 +1,6 @@
 # Course grading breakdown
 
 ## Individual assignments (30%)
-Each assignment is graded for:
-1. Completeness: Attempts were made on every problem (50%)
-2. Correctness: Numerical answers are in the right ballpark, qualitative answers make sound arguments (50%)
-An "A" grade will require making arguments quantitative where possible.
 
 ### Assignments:
 1. Homework: Sankey diagram analysis (7%) - Turn in document + canvas post and comments
@@ -13,11 +9,21 @@ An "A" grade will require making arguments quantitative where possible.
 4. In-class: LCA problem set (8%) - Turn in document
 Percentages should sum to the Individual Assignments total percentage.
 
+Each assignment is graded for:
+1. Completeness: Attempts were made on every problem (50%)
+2. Quality of answer: Numerical answers are in the right ballpark, qualitative answers make sound arguments (50%)
+
+Rubric:
+Unsatisfactory - 
+Satisfactory - shows ability to pull in outside information
+Exemplary - making arguments quantitative where possible, synthesizes and cites sources
+
 ## Group assignments (20%):
 Each assignment is graded based on:
 1. Completeness: Presentations were given on the material (50%)
-2. Peer Evaluation: Other groups will rate the quality of your presentation (30%)
-3. Instructor Evaluation: I will assess presentation quality with a provided rubric (20%)
+2. Instructor Evaluation: I will assess presentation quality with a provided rubric (30%)
+3. Peer Evaluation: Classmembers outside of your group will rate the quality of your presentation (15%)
+4. Thoughtfulness of your provided evaluation feedback (5%)
 
 We are trying to cover a lot of material in a short amount of time. We are relying on breakout groups to do "deep-dives" and distill the content for a larger audience.
 
@@ -31,6 +37,9 @@ Percentages should sum to the Group Assignments total percentage.
 ## Group final project (40%):
 Learning objective:
 Propose a new climate technology solution, either in transportation, agriculture or carbon removal
+
+Deliverable:
+20 minute presentation + 10 minutes for questions
 
 ### Evaluation criteria
 1. Is the problem / opportunity well-defined and quantified? (30%)
@@ -50,14 +59,7 @@ Grading for:
 ## Field-trip participation (5%)
 Grading for:
 1. Attendance (5%)
-
-
-# Group Grading
-Group-grading:
-Self and peer evaluation (30%)
-Instructor evaluation (70%)
-Rationale: Free-riders can get a C, middle of the road B, and high performers an A
-
+TODO: Need a make-up assignment  focused on ag. 
 
 Other class thoughts:
 
