@@ -1,8 +1,6 @@
 # Colorado College PC271 - Investigations in Climate Technology
 Welcome to PC271! This half-block course offers students a foundational understanding of the critical needs and opportunities in climate technology. The course begins by exploring the emissions reductions required to limit global temperature rise to 1.5°C and the unprecedented efforts necessary to achieve this target. Students will be introduced to emerging climate technologies across various sectors while engaging in open discussions on hotly debated topics within the field. Additionally, the course will introduce students to analytical frameworks commonly used in evaluating new technical concepts and addressing global-scale challenges. By the end of the course, students will gain valuable insights into how studying the physical sciences and engineering can contribute to mitigating the worst impacts of climate change. The course is open to all Colorado College students, regardless of their major.
 
-## Graded Assignments ##
-Multiple group presentations plus a final project which will involve expanding on a previous in-class design / analysis presentation.
 
 ## Course Outline / Syllabus
 ### 1/6 Day 1: How bad is it? What do we need to do?
@@ -95,10 +93,6 @@ Even if we hit net-zero "in-time", we still need negative emissions to maintain 
 ### Day 9: Adaptation, Resilience, Geoengineering
 Given that we are seeing effects of climate change today, there is a growing space of climate resilience / adaptation technologies.
 
-## Other assignments planned
-1. Find an engineering / scientist role at a climate-tech start-up that you're interested in and present the job requisition. How would you get there from here today?
-2. Students will make a LinkedIn, sign up for ClimateBase, WorkOnClimate and make a mock career plan
-3. Climate-adjacent technology sectors. Students will look at adjacent technology sectors, evaluate their potential impact on climate tech. Examples include advanced materials, space-based earth observation, autonomous vehicles, biotech, etc.
 
 ## External Resources
 [Nat Bullard's global climate trends in 2023 in 200 slides](https://www.nathanielbullard.com/presentations])
