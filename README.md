@@ -50,28 +50,32 @@ Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the 
 
 [IEA Transport](https://www.iea.org/energy-system/transport)
 
-### 1/8 Day 3: Decarbonizing Electricity
+### 1/8 Day 3: Decarbonizing Electricity - Double Session!
 Electricity production is the next largest sector at 25% of total CO2 emissions in the US. We'll look at currently available technologies and the technical, economic, and social barriers to adoption. 
 
-**In-class activity / dicussion** Dicussion on permitting, NIMBYism, etc. Are there any technical solutions to these problems?
-
+#### Morning session
 **Guest Lecture** Dr. Tyler Ruggles on Decarbonizing the Electricity System
 
-**HW Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc. See [Net-Zero scenario assignment](netzero_activity.md)
+**In-class Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc. See [Net-Zero scenario assignment](netzero_activity.md)
 
-### 1/9 Day 4: Next Generation Electricity Production
+#### Afternoon session
+Group presentations - 15 minute presentations + 5 minutes for questions / discussion
+
+### 1/9 Day 4: Next Generation Electricity Production - Anil Remote
 Now we'll start looking at the potentially game-changing technical breakthroughs that would shake-up what we've talked about so far. This will inclucde a brief intro to next-gen energy storage, fusion energy, and natural hydrogen.
-
-**In-class activity** Group presentations from yesterday's assignment on net-zero America.
 
 **Guest Lecture** Sam Wurzel, former ARPA-E adviser in fusion, founder of FusionEnergyBase on "Why Fusion Energy Will Change Everything"
 
-**HW Assignment** Answering the Heilmeyer questions on new technical concepts. Doing some example techno-economic analysis.
+**Guest Lecture** Emily Yedinak, materials scientist, currently at Koloma, a geologic hydrogen startup company
 
-### 1/10 Day 5: Agriculture
+### 1/10 Day 5: Agriculture - Anil Remote
 Agricultural emissions are notoriously difficult to abate because they are happening over vast areas of land. We'll talk about soil carbon stocks, methane and nitroux oxide emissions and how to reduce them.
-**In-class Activity** Presentations from HW assignment. 
-**HW Assignment** In groups, pick an ag-tech technology and make a pitch for it. Examples may include vertical farms, large-scale aquaculture, fake meats, etc. Answer the Heilmeyer questions and estimate potential impact. What are the risks? How will you get people to adopt?
+
+**Guest lecture / pre-recorded lecture**
+
+**Working Session** In groups, start forming a project proposal Answer the Heilmeyer questions and estimate potential impact. What are the risks? How will you get people to adopt?
+
+**Assignment - Project proposals due at 5pm Friday** - Must be submitted on time so I can get feedback to you ASAP and we can finalize proposals by Monday
 
 ### 1/13 Day 6: Hard-to-decarbonize sectors: Industry
 The "final" 8% emissions come from sectors we never really "see". Cement, iron, steel, etc. The building blocks of our built-environment require carbon to be emitted, not just for the heat, but to complete necessary chemical reactions.
