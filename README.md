@@ -64,7 +64,9 @@ Now we'll start looking at the potentially game-changing technical breakthroughs
 
 **Guest Lecture** Sam Wurzel, former ARPA-E adviser in fusion, founder of FusionEnergyBase on "Why Fusion Energy Will Change Everything"
 
-**Guest Lecture** Emily Yedinak, materials scientist, currently at Koloma, a geologic hydrogen startup company
+**Guest Lecture** Emily Yedinak, materials scientist, currently at Koloma, a geologic hydrogen startup company speaking on geologic hydrogen
+
+**Guest Lecture** Adrienne Little, mechanical engineer, currently at AtmosZero, previously at Antora, speaking on long-duration energy storage
 
 ### 1/10 Day 5: Agriculture - Anil Remote
 Agricultural emissions are notoriously difficult to abate because they are happening over vast areas of land. We'll talk about soil carbon stocks, methane and nitroux oxide emissions and how to reduce them.
@@ -85,19 +87,19 @@ The "final" 8% emissions come from sectors we never really "see". Cement, iron, 
 **HW Assignment** Find and analyze a climate-tech job posting you find interesting. See [Job Assignment](career_activity.md) 
 
 ### Day 7: FIELD DAY
-Trip up to Fort Collins to see AtmosZero and (hopefully) Charm Industrial. We will be leaving bright and early for a full day!
+Trip up to Fort Collins to see Colorado State University's AgNext facility and AtmosZero.
 
 ### Day 8: Negative Emissions - Carbon Dioxide Removal
-Even if we hit net-zero "in-time", we still need negative emissions to maintain our targets of either 1.5 or more realistically, 2 C.
+Even if we hit net-zero "in-time", we still need negative emissions to maintain our targets of 2 C.
 
 ### Day 9: Adaptation, Resilience, Geoengineering
 Given that we are seeing effects of climate change today, there is a growing space of climate resilience / adaptation technologies.
 
 
-## External Resources
-[Nat Bullard's global climate trends in 2023 in 200 slides](https://www.nathanielbullard.com/presentations])
-
+## Additioanl Resources
 [Carbon Dioxide Removal Primer](https://cdrprimer.org/)
+
+[Nat Bullard's global climate trends in 2023 in 200 slides](https://www.nathanielbullard.com/presentations])
 
 [Climate Tech Primer w/ carbon flux animation](https://www.climatetechnologyprimer.com/section_1/1.2)
 

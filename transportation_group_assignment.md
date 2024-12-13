@@ -1,9 +1,13 @@
-# Assignment: Reducing Vehicle Miles Traveled (VMT) Using Technology
+# Reducing Vehicle Miles Traveled (VMT) Using Technology
 
-## Objective
-Your task is to propose a **technology-only** solution to reduce personal vehicle miles traveled (VMT) in the U.S. or another country/region of your choice. You should identify a specific portion of VMT that your technology targets (e.g., commuting, long-distance travel, urban vs. rural travel) and estimate the impact of your solution on reducing VMT. Be specific about how the technology works, why you chose to address that portion of VMT, and what the total reduction in miles could be.
+Your task is to propose a **technology-only** solution to reduce vehicle miles traveled (VMT). You should identify a specific portion of VMT that your technology targets (e.g., commuting, long-distance travel, urban vs. rural travel) and estimate the impact of your solution on reducing VMT. Be specific about how the technology works, why you chose to address that portion of VMT, and what the total reduction in miles could be.
 
----
+
+## Learning Objectives
+- Apply creative thinking and engineering to a climate relevant problem
+- Analytically breakdown a large emissions sectors into smaller, more manageable segments
+- Apply quantitative thinking to new technology ideas
+
 
 ## Assignment Breakdown
 
@@ -13,6 +17,7 @@ Your task is to propose a **technology-only** solution to reduce personal vehicl
   - Long-distance family or recreational trips
   - Short, local trips for errands and shopping
   - Ride-hailing services (Uber/Lyft-type miles)
+  - Freight / movement of goods
 
 - **Guiding Questions:**
   - Why did you choose this segment of VMT? Is it a major contributor to total VMT in the region you’re targeting?
