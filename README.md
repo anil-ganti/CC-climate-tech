@@ -54,7 +54,7 @@ Electricity production is the next largest sector at 25% of total CO2 emissions 
 #### Morning session
 **Guest Lecture** Dr. Tyler Ruggles on Decarbonizing the Electricity System
 
-**In-class Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc. See [Net-Zero scenario assignment](netzero_group_activity.md)
+**In-class Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc. See [Net-Zero scenario assignment](netzero_group_assignment.md)
 
 #### Afternoon session
 Group presentations - 15 minute presentations + 5 minutes for questions / discussion
