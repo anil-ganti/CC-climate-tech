@@ -15,7 +15,7 @@ We will look at some key figures in the 2021, 2022, and 2023 IPPC reports to und
 
 **Guest Lecture:** Dr. Jen Schafer, ARPA-E program director and professor at Colorado School of Mines on nuclear fission energy, past, present, and future.
 
-**Invidiual HW Assignment** See [Sankey Diagram assignment](sankey_activity.md)
+**Invidiual HW Assignment** See [Sankey Diagram assignment](sankey_assignment.md)
 
 **Resources:**
 
@@ -34,7 +34,7 @@ Transportation makes up ~20 - 25% of global CO2 emissions, closer to 33% in the 
 
 **In-class Individual Assignment** Example TEA analysis of a hypothetical company which produces hydrogen from waste biomass. Working in groups is encouraged, but individual answers must be turned in! See [TEA assignment](tea_assignment.md)
 
-**Group brainstorm and presentation** Proposals to reduce vehicle-miles traveled (VMT) with technology-only solutions. See [Transportation assignment](transportation_activity.md)
+**Group brainstorm and presentation** Proposals to reduce vehicle-miles traveled (VMT) with technology-only solutions. See [Transportation assignment](transportation_group_assignment.md)
 
 **Resources:**
 
@@ -54,7 +54,7 @@ Electricity production is the next largest sector at 25% of total CO2 emissions 
 #### Morning session
 **Guest Lecture** Dr. Tyler Ruggles on Decarbonizing the Electricity System
 
-**In-class Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc. See [Net-Zero scenario assignment](netzero_activity.md)
+**In-class Assignment** Net-zero America scenario analysis. Break out into groups, each will dive deep into a different NZ scenario. Present the scenario, look for the critical technology gaps, opportunities, etc. See [Net-Zero scenario assignment](netzero_group_activity.md)
 
 #### Afternoon session
 Group presentations - 15 minute presentations + 5 minutes for questions / discussion
@@ -84,7 +84,7 @@ The "final" 8% emissions come from sectors we never really "see". Cement, iron, 
 
 **Guest Lecture** Dr. Rakesh Radhakrishnan, former ARPA-E tech-to-market adviser, current climate-tech VC on the life-cycle of climate-tech start-ups and what you should know before joining one
 
-**HW Assignment** Find and analyze a climate-tech job posting you find interesting. See [Job Assignment](career_activity.md) 
+**HW Assignment** Find and analyze a climate-tech job posting you find interesting. See [Job Assignment](career_assignment.md) 
 
 ### Day 7: FIELD DAY
 Trip up to Fort Collins to see Colorado State University's AgNext facility and AtmosZero.
