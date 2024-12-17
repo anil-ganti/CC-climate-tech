@@ -1,57 +1,42 @@
 # Group Assignment: Analyzing Net-Zero Pathways for America (Princeton Report)
-## Objective:
-Each group will choose one of the five net-zero pathways from the Princeton Net-Zero America report. The goal is to thoroughly analyze the pathway and create a presentation that explains how it achieves net-zero by 2050, discusses key enabling technologies and limitations, evaluates the benefits and risks, and provides arguments for why this pathway might be the most effective route to net-zero emissions. Groups will also perform simple calculations to support their analysis and conclusions.
+Each group will do a "deep dive" on one of the six pillars (see Slide 17 of the [Summary Slides](https://netzeroamerica.princeton.edu/img/Princeton%20NZA%20FINAL%20REPORT%20SUMMARY%20(29Oct2021).pdf). Groups will answer a common set of questions and share their findings in a 10-minute presentation plus 5 minutes for questions.
 
-## Assignment Breakdown:
-### 1. Defining the Pathway (Slide 1-2)
-Task: Define your chosen pathway. Describe its core assumptions about energy demand and supply technology.
-Guiding Questions:
-What are the key features of this pathway? (e.g., level of electrification, role of renewables, biomass, etc.)
-How does it differ from the other pathways in terms of technology mix and pace of change?
-Example Calculation: Estimate the total electrification percentage for transport and buildings by 2050 in your pathway. How does this compare to current levels?
-### 2. How It Reaches Net-Zero (Slide 3-4)
-Task: Explain the specific mechanisms by which this pathway achieves net-zero emissions.
-Guiding Questions:
-What are the primary technologies or strategies that contribute to emissions reductions?
-What sectors (e.g., energy, transport, industry) see the largest reductions, and how?
-Example Calculation: Estimate the total emissions reductions from electrification in the transport sector. How many internal combustion engine vehicles would need to be replaced by EVs, based on assumptions in the report?
-### 3. Key Enabling Technologies (Slide 5-6)
-Task: Identify the key technologies that make this pathway possible.
-Guiding Questions:
-What are the critical technologies that enable large-scale emissions reductions (e.g., wind/solar, battery storage, biofuels, carbon capture)?
-How do these technologies compare to what is required in the other pathways?
-Example Calculation: If your pathway relies heavily on wind/solar power, estimate how much land area would be required to meet the electricity demand by 2050. How does this land requirement compare to current renewable installations?
-### 4. Technology Limitations (Slide 7)
-Task: Discuss the limitations and challenges associated with the technologies in this pathway.
-Guiding Questions:
-What are the current technical, economic, or policy limitations that could hinder this pathway’s success?
-Are there any breakthrough technologies that need further development to meet the pathway’s goals?
-Example Calculation: Choose one limitation (e.g., battery storage for renewables) and calculate how much storage capacity would be required to manage the variability of solar/wind power at scale. What would the costs be at current battery prices?
-### 5. Benefits of This Pathway (Slide 8)
-Task: Analyze the key benefits of your pathway in terms of emissions, energy security, economic growth, and other factors.
-Guiding Questions:
-What are the major advantages of this pathway compared to the others (e.g., economic feasibility, energy independence, speed of transition)?
-How does this pathway contribute to overall sustainability (e.g., land use, water use, ecosystem impacts)?
-Example Calculation: If your pathway assumes aggressive biomass utilization, estimate the total biomass requirement and compare it to current biomass availability. What are the ecological or agricultural implications of this?
-### 6. Risks and Challenges (Slide 9)
-Task: Identify the main risks and challenges associated with this pathway.
-Guiding Questions:
-What are the key risks (e.g., energy reliability, cost overruns, technological bottlenecks)?
-How do these risks compare with the other pathways?
-Example Calculation: Calculate the financial cost of transitioning the energy system to meet the requirements of your pathway (e.g., new infrastructure, renewable installations, electrification). Compare this with the projected cost savings from reduced fossil fuel usage.
-### 7. Why This Pathway Is the Best (Slide 10)
-Task: Make an argument for why this pathway is the most effective or ideal route to net-zero emissions by 2050.
-Guiding Questions:
-What makes this pathway preferable to others, based on technology readiness, cost, environmental impact, or social acceptance?
-How well does it align with national goals on energy security, job creation, and emissions reductions?
-Example Calculation: Perform a simple cost-benefit analysis: how much investment is required to achieve the emissions reductions outlined in your pathway, and what is the cost per ton of CO₂ avoided compared to other pathways?
-Additional Assignment Requirements:
-Research: Each group should use sources beyond the Princeton Net-Zero America report, including academic articles, government reports, and reputable industry data.
-Calculations: Groups must include at least three quantitative analyses (back-of-the-envelope calculations or estimates) to support their arguments.
-Presentation Format: Groups should prepare a 10-12 slide presentation to be delivered to the class. The slides should be clear, well-organized, and incorporate both qualitative and quantitative information.
-Q&A: Each group will be asked to defend their chosen pathway during a class Q&A session after the presentations.
-Sample Calculation Examples:
-Electrification Impact: Estimate the energy demand shift from fossil fuels to electricity in your pathway. How much additional renewable capacity would be required?
-Land Use for Renewables: For pathways that rely heavily on solar or wind, estimate the total land area required to generate 1 GW of power and scale that to 2050 needs.
-Biofuel Production: In pathways that assume high biomass utilization, estimate the biomass production needed to meet fuel demands for non-electrified transport sectors. What would the land or water requirements be for this level of production?
-Cost Comparison: Calculate the cost difference between building new renewable energy infrastructure (e.g., wind farms, solar plants) versus maintaining fossil fuel plants in terms of $/MWh of energy produced.
+## Learning Objectives:
+Students will gain an understanding of the technical, economic, social and policy considerations that are involved in creating a net-zero economy.
+
+## Assignment
+For your assigned pillar, you will be making a set of slides which answers the set of questions below. You will have 15 minutes in total for your presentation, I suggest 12 minutes for presenting and 3 minutes for questions.
+
+### Reading
+Take 20 minutes looking through slides 5 - 13 of the [Princeton Net-Zero America Report Summary](https://netzeroamerica.princeton.edu/img/Princeton%20NZA%20FINAL%20REPORT%20SUMMARY%20(29Oct2021).pdf). This will be necessary for understanding the questions.
+
+### Question 1: Define the pillar (1 slide)
+In your own words and on one slide introduce the pillar you have looked at. How much of the total emissions does this pillar address? In the Heilmeyer catechism, this is the "how is it done today" question.
+
+### Question 2: Give a quantitative summary of how emissions will be reduced (1-2 slides)
+Find the appropriate summary graphic in the report and be prepared to explain, in your own words, how emissions reductions associated with this pillar will be achieved in the various scenarios presented.
+
+### Question 3: Enabling technologies (1-2 slides)
+What are the key enabling technologies that make the emissions reductions in this pillar possible? In what ways are they similar or different across the 5 scenarios? How ready would you say these technologies to be deployed at scale? Justify. Are there any potential disruptive technologies on the horizon in this area that would impact the findings of this report?
+
+### Question 4: Economic factors (1-2 slides)
+How does economics come into play? What are the effects on end-consumers and how does this differ across the scenarios? Show 1-2 key figures from the report that make these points.
+
+### Question 5: Policy factors
+How is this pillar affected by policy? Are there policies that could accelerate pillar? Hinder it? Answering this question may require research outside of the NZA report because the report was written in 2021.
+
+### Question 6: Social factors
+What about consumer behavior / other social factors? Across the various scenarios does this pillar require a societal change? If so, in what ways? Are there ways to "design around" the need for societal change in this pillar?
+
+## Evaluation
+
+The answer to each question will be scored 1 - 5, as well as a score for overall presentation quality and Q&A handling.
+| **Score** | **Description**                                                                                                                                                           |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **5**     | The group provides a complete, clear, and insightful response. Explanations are thorough and supported by evidence from the report or external research where applicable.    |
+| **4**     | The group provides a mostly complete response with good clarity. Explanations are solid but may lack depth in some areas or minor evidence gaps.                           |
+| **3**     | The group addresses the question but with limited detail or clarity. Some parts of the explanation are incomplete or lack clear evidence from the report or research.       |
+| **2**     | The group provides a partial response. Key details or evidence are missing, and the explanation is difficult to follow or unclear in significant ways.                     |
+| **1**     | The group provides little to no meaningful response. The explanation is superficial, incorrect, or fails to address the question adequately.                               |
+
+---
