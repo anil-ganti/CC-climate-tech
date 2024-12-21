@@ -6,6 +6,8 @@ Deeper technical understanding of the technical area can produce very insightful
 
 ## Learning objectives
 
+- Learn what techno-economic analysis is and why it is so important for climate-tech
+
 - Do a simple total addressable market analysis from top-down and also bottom-up
 
 - Do a total cost of ownership calculation, green premium, and marginal cost of abatement
@@ -16,25 +18,58 @@ Deeper technical understanding of the technical area can produce very insightful
 
 - Understanding cost curves? Reducing costs through material inputs vs economics of scale vs process innovation
 
-## Question 1: Compute the total addressable market: a top-down analysis
 
-Using the [OtherLab Super Sankey diagram](http://www.departmentof.energy/) and some basic quantities:
-**Energy density of hydrogen** - 120 [MJ/kg]
-**Efficiency of diesel engines** - 45%, Source: A quick google search
-**Efficiency of hydrogen fuel cells** - 66%, Source:[NREL study, table 2](https://www.nrel.gov/docs/fy21osti/71796.pdf)
-**Current an target prices of hydrogen** - Find in above NREL report.
+## Techno-economic analysis overview and podcast
+Start with looking through these [slides on TEA from the DOE](https://www.energy.gov/sites/default/files/2022-01/2022-01-19%20-%20Intro%20to%20TEA%20-%20Slides%20and%20Transcript_compliant_1_0.pdf)
 
-- Estimate the amount of hydrogen in kg that would be needed to decarbonize all of freight trucking, starting with the total energy usage from the Sankey Diagram. Hint: You'll need to make some assumptions about the efficiency of existing diesel engines and the efficiency of hydrogen fuel cells to make the conversion.
- 
-- Repeat this for commercial light trucks.
+### Question 1: What is TEA and why does it matter?
+Explain in your own words what a techno-economic analysis is, and why it is so important in climate tech (3-4 sentences)
 
-- Find a price range for hydrogen. There will be a "current price" and a "target price". Using both values, compute the total addressable market in dollars for hydrogen in freight trucking.
+Now, listen to this [podcast](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann/climatetech-startups-need-strong-techno-economic-analysis). Note: I highly recommend listening to more episodes of this podcast to get a lay of the land in climate-tech.
 
-- For both sectors, are there competing carbon-free technologies you need to consider? Qualitatively describe the advantages and drawbacks associated with both.
+Pause ~12:30 and answer these questions: 
 
+### Question 2
+What is capacity factor? Do a quick google search on the capacity factor of natural gas, nuclear, solar and wind. Record your numbers and explain what you are seeing.
 
-## Question 2: Green premiums, cost parity and a carbon price: a bottom-up analysis
+### Question 3
+What is levelized cost of energy (LCOE)? What is the LCOE of natural gas, nuclear, solar and wind? This will require a quick google search.
 
+### Question 4
+Suppose you are a new start-up developing some decarbonization technology which requires renewable electricity. Why should you / or should you not use LCOE in your techno-economic analysis? Why is capacity factor important in computing your input costs?
+
+Continue to ~14:30, pause and answer the following question:
+
+### Question 5
+Dr. Greg Thiel talks about why trying to capture waste heat might sound very appealing, but may not pencil out economically. 
+Suppose I have a chemical plant and had a source of waste heat which I am going to exhaust to the atmosphere through a long pipe. I am considering recycling that waste heat which will improve my energy efficiency. How will this affect my cap-ex and op-ex?
+
+Continue and pause at ~19:30
+
+### Question 6
+When building a techno-economic model why might I want to use a future or "target" price as an input to my model instead of the current price? What does Dr. Greg Thiel suggest doing instead when modeling the price of your inputs?
+
+He doesn't use this term, but what he is reffering to is a "green premium". Look at this [article on the green premium](https://www.breakthroughenergy.org/our-approach/the-green-premium/#:~:text=What%20is%20the%20Green%20Premium,that%20emits%20more%20greenhouse%20gases.) and explain in your own words what a green premium is.
+
+Continue on the podcast to ~26:15
+
+### Question 7
+They talk about component costs vs system costs. Explain this in your own words, say, in the context of an electric vehicle.
+
+### Question 8
+They give two examples where systems-level thinking is important in your techno-economic analysis. In the first example, an ammonia reactor, they say that even large gains in efficiency may not matter, while in the second example, electric vehicles, they say that even small gains in efficiency can make a huge difference. Explain this in your own words.
+
+### Question 9
+Continue to ~30:30
+
+Explain what they mean when they say that you shouldn't compare market price to your production cost. Suppose I have a new technology which will capture natural gas instead of flaring it from oil and gas wells (it's basically free!). Why would my production cost not be the right number?
+
+### Question 10
+Continue to ~35:30
+
+Why is it not enough to compare your new technology to what is in the market today? What else do you need to do to have confidence that your technology will be competetive?
+
+## Question 11: Green premiums, cost parity and a carbon price: a bottom-up analysis
 We will try to reproduce the findings of a 2011 (old, I know) report from NREL on producing hydrogen from biomass.
 Report can be found [here](https://www.energy.gov/eere/fuelcells/articles/hydrogen-production-cost-estimate-using-biomass-gasification-independent). I recommend looking through it as you work through this question.
 
@@ -46,23 +81,20 @@ Report can be found [here](https://www.energy.gov/eere/fuelcells/articles/hydrog
 5. **Energy Cost**: $5/GJ (natural gas).
 7. **Carbon Sequestration**: 2 tons of CO₂ per ton of hydrogen produced.
 8. **Capital Expenditure (CapEx)**: $344 million for the Nth plant.
+9. **Plant Lifetime** 30 years
+10. **Plant Capacity Factor** 0.95 (unitless)
 
 Your goal is to calculate the levelized hydrogen production cost ($/kg), assess the impact of carbon pricing, and reflect on the feasibility of the technology.
 
-### Part 1: Biomass Feedstock Costs
-1. Calculate the daily feedstock cost for a plant consuming 2000 dry tons of biomass per day.
-2. Determine the feedstock cost contribution per kilogram of hydrogen produced.
+### Calculating OpEx input costs
+1. Calculate the feedstock cost per kg of hydrogen produced.
+2. Calculate the energy input cost per kg of hydrogen produced.
+   
+### Calculating levelized cost of hydrogen
+1. Use the capital expenditure (CapEx) costs, the plant lifetime, and the plant capacity factor, or time the plant is running, to calculate the levelized cost of hydrogen production.
+2. Suppose you want to run on cheap wind electricity. Use your capacity factor and LCOE of wind from question 3 to calculate what your levelized cost of hydrogen would be if you produced hydrogen only when the wind was blowing.
 
-### Part 2: Energy Costs
-1. Calculate the energy input required per day for hydrogen production based on a yield of 75 kg H₂ per ton of biomass, 2000 dt and 15 GJ/ton of hydrogen.
-2. Determine the energy cost contribution per kilogram of hydrogen produced.
+### Scenario analysis
+Typically a TEA will include sensitivity analysis and scenario analysis. Qualitatively, what would need to change to bring down your levelized cost of hydrogen production? How does this map to ongoing trends in the energy landscape?
 
-### Part 3: Total Production Cost
-1. Find the CapEx contribution to the cost per kg of hydrogen by assuming the Nth plant runs for 20 years.
-2. Putting it all together, compute the cost of hydrogen production. How does this compare to the current cost and target costs from question 1? What needs to happen between production and consumption? Find rough costs for this to estimate the achievable margin in producing, distributing and selling hydrogen from waste biomass.
 
-### Part 4: Impact of Carbon Pricing
-1. What must the price of carbon sequestration be to offset the cost of hydrogen production?
-
-### Part 5: Qualitative sensitivity analysis
-Typically a TEA will include sensitivity analysis. What happens when the inputs to your model are perturbed? Does this "make" or "break" your economics? What inputs in our model may change dramatically due to market conditions or policy? How should we account for these possible scenarios when making decisions today?
