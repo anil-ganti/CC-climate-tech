@@ -22,4 +22,6 @@ If successful students will demonstrate the ability to:
 
 [EDF Agricultural Climate Pathways](https://www.edf.org/agriculture-climate-pathways)
 
+[WRI Food / GHG Gap](https://research.wri.org/wrr-food/executive-summary-synthesis)
+
 
