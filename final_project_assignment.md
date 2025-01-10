@@ -15,3 +15,11 @@ If successful students will demonstrate the ability to:
 ### Deliverable
 15 minute presentation + 5 min for questions
 
+## Resources
+[Roads2Removal](https://roads2removal.org/wp-content/uploads/00_RtR_FM-and-Executive-Summary-1.pdf)
+
+[National Academies CDR](https://webassets.nationalacademies.org/cdrtechs/)
+
+[EDF Agricultural Climate Pathways](https://www.edf.org/agriculture-climate-pathways)
+
+
